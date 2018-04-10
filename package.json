@@ -1,0 +1,14 @@
+{
+  "name": "ppts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodeppt start -p 8090 -d ./dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zlx",
+  "license": "ISC"
+}
